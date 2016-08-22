@@ -11,7 +11,6 @@
  * @ngdoc object
  * @name angular.mock
  * @description
- *
  * Namespace from 'angular-mocks.js' which contains testing related code.
  */
 angular.mock = {};
